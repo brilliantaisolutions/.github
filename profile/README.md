@@ -36,7 +36,6 @@ Our founders bring more than 25 years of hands-on leadership from **New York Uni
 ### Leadership
 
 - **Bobby Brill**, Founder — [@bobby-brill](https://github.com/bobby-brill)
-- **David Ackerman**, Co-founder
 
 ### Get in touch
 
